@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="_x32_" sodipodi:docname="slider_icon.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="520px" height="520px"
+	 viewBox="0 0 520 520" style="enable-background:new 0 0 520 520;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#7CC8E9;}
+	.st1{fill:#DFE3E4;}
+</style>
+<path class="st0" d="M420,520H100C44.8,520,0,475.2,0,420V100C0,44.8,44.8,0,100,0h320c55.2,0,100,44.8,100,100v320
+	C520,475.2,475.2,520,420,520z"/>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="10" fit-margin-left="10" fit-margin-right="10" fit-margin-top="10" id="namedview13" inkscape:current-layer="layer1" inkscape:cx="286.72" inkscape:cy="379.48236" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1009" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="0.41503906" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="177.59921" inkscape:cy="91.833805" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1026" inkscape:window-maximized="1" inkscape:window-width="1627" inkscape:window-x="53" inkscape:window-y="24" inkscape:zoom="0.7" pagecolor="#ffffff" showgrid="false" showguides="true">
+	</sodipodi:namedview>
+<g>
+	<path class="st1" d="M4,210.3v99.5c0,20.7,16.8,37.4,37.4,37.4h69.7V172.8H41.4C20.8,172.8,4,189.6,4,210.3z"/>
+	<path class="st1" d="M284.3,103c-3.8-2.3-8.5-2.5-12.4-0.5l-138.4,70.3v174.3l138.4,70.3c3.9,2,8.6,1.8,12.4-0.5
+		c3.8-2.3,6.1-6.4,6.1-10.8V113.9C290.4,109.4,288.1,105.3,284.3,103z"/>
+	<path class="st1" d="M412.5,166.7c-5.1-5.6-13.7-6.1-19.3-1c-5.6,5.1-6.1,13.7-1,19.3c19.1,21.3,28.7,48.1,28.7,75
+		c0,26.9-9.6,53.8-28.7,75c-5.1,5.6-4.6,14.3,1,19.4c5.6,5.1,14.3,4.6,19.3-1c23.8-26.5,35.8-59.9,35.8-93.3
+		C448.3,226.6,436.4,193.1,412.5,166.7z"/>
+	<path class="st1" d="M462.9,121.3c-5.1-5.6-13.7-6.1-19.3-1c-5.6,5.1-6.1,13.7-1,19.3c30.7,34.1,46.1,77.2,46.1,120.3
+		c0,43.2-15.4,86.2-46.1,120.3c-5.1,5.6-4.6,14.3,1,19.3c5.6,5.1,14.3,4.6,19.3-1c35.4-39.3,53.1-89,53.1-138.7
+		C516,210.4,498.3,160.6,462.9,121.3z"/>
+	<path class="st1" d="M342.8,211c-5.6,5.1-6.1,13.7-1,19.3c7.6,8.4,11.4,19,11.4,29.6c0,10.6-3.8,21.2-11.4,29.6
+		c-5.1,5.6-4.6,14.3,1,19.3c5.6,5.1,14.3,4.6,19.3-1c12.3-13.6,18.4-30.8,18.4-48c0-17.1-6.2-34.4-18.4-48
+		C357,206.4,348.4,206,342.8,211z"/>
+</g>
+</svg>
